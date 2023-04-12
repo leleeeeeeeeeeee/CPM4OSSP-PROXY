@@ -23,7 +23,7 @@
 
         <spring-boot.version>2.4.8</spring-boot.version>
 
-        <common-boot.version>[2.1.0,2.1.99]</common-boot.version>
+        <common-boot.version>2.3.0</common-boot.version>
         <docker.registryUrl>registry.cn-beijing.aliyuncs.com</docker.registryUrl>
         <docker.registry.name>fengshunli</docker.registry.name>
         <docker.workdir>/tmp/</docker.workdir>
@@ -106,7 +106,7 @@
         <dependency>
             <groupId>org.springframework</groupId>
             <artifactId>spring-jdbc</artifactId>
-            <version>5.3.4</version>
+            <version>5.3.18</version>
         </dependency>
 
         <dependency>
